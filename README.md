@@ -4,7 +4,7 @@
 ## Project Overview
 
 This repository contains the pytorch implementation of our proposed Unsupervised Domain Adaptation (UDA) framework using Transformers for cross-modality medical image segmentation. 
-You can access our paper on [TMI](https://ieeexplore.ieee.org/abstract/document/10273225).
+You can access our paper on [Unsupervised Domain Adaptation for Medical Image Segmentation Using Transformer With Meta Attention](https://ieeexplore.ieee.org/abstract/document/10273225).
 
 ![](Fig/img.png)
 
